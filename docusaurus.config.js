@@ -90,27 +90,7 @@ const config = {
       },
       footer: {
         style: "dark",
-        links: [
-          {
-            title: "Blog",
-            items: [
-              {
-                label: "All Posts",
-                to: "/",
-              },
-            ],
-          },
-          {
-            title: "More",
-            items: [
-              {
-                label: "GitHub",
-                href: "https://github.com/itechchoice",
-              },
-            ],
-          },
-        ],
-        copyright: `Copyright © ${new Date().getFullYear()} Die Yi. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Die Yi`,
       },
       prism: {
         theme: prismThemes.github,
