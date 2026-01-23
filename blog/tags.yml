@@ -1,19 +1,20 @@
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
+# 周刊内容标签
+github:
+  label: "GitHub 项目"
+  description: "精选有趣的开源项目"
+  permalink: /tags/github
 
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
+reddit:
+  label: "Reddit 热点"
+  description: "技术社区热门话题"
+  permalink: /tags/reddit
 
-docusaurus:
-  label: Docusaurus
-  permalink: /docusaurus
-  description: Docusaurus tag description
+ai:
+  label: "AI 工具"
+  description: "实用的 AI 生态和工具"
+  permalink: /tags/ai
 
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
+best-practices:
+  label: "编程规范"
+  description: "有效的编程实践与规范"
+  permalink: /tags/best-practices
